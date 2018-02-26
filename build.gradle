@@ -10,7 +10,7 @@
 plugins {
 	id 'java-library'
     id 'org.ajoberstar.grgit' version '2.1.0'
-    id 'pl.allegro.tech.build.axion-release' version '1.8.3'
+    id 'pl.allegro.tech.build.axion-release' version '1.9.0'
     id 'maven-publish'
 }
 
